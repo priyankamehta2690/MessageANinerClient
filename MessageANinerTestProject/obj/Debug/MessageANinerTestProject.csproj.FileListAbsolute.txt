@@ -1,0 +1,15 @@
+E:\Fall 15\SSDI\Project\Code\MessageANiner2\MessageANiner2\MessageANinerTestProject\bin\Debug\MessageANinerTestProject.dll
+E:\Fall 15\SSDI\Project\Code\MessageANiner2\MessageANiner2\MessageANinerTestProject\bin\Debug\MessageANinerTestProject.pdb
+E:\Fall 15\SSDI\Project\Code\MessageANiner2\MessageANiner2\MessageANinerTestProject\bin\Debug\MessageANiner.exe
+E:\Fall 15\SSDI\Project\Code\MessageANiner2\MessageANiner2\MessageANinerTestProject\bin\Debug\messageSpecs.dll
+E:\Fall 15\SSDI\Project\Code\MessageANiner2\MessageANiner2\MessageANinerTestProject\bin\Debug\nunit.framework.dll
+E:\Fall 15\SSDI\Project\Code\MessageANiner2\MessageANiner2\MessageANinerTestProject\bin\Debug\SocketHandler.dll
+E:\Fall 15\SSDI\Project\Code\MessageANiner2\MessageANiner2\MessageANinerTestProject\bin\Debug\SQLManager.dll
+E:\Fall 15\SSDI\Project\Code\MessageANiner2\MessageANiner2\MessageANinerTestProject\bin\Debug\MessageANiner.pdb
+E:\Fall 15\SSDI\Project\Code\MessageANiner2\MessageANiner2\MessageANinerTestProject\bin\Debug\messageSpecs.pdb
+E:\Fall 15\SSDI\Project\Code\MessageANiner2\MessageANiner2\MessageANinerTestProject\bin\Debug\nunit.framework.xml
+E:\Fall 15\SSDI\Project\Code\MessageANiner2\MessageANiner2\MessageANinerTestProject\bin\Debug\SocketHandler.pdb
+E:\Fall 15\SSDI\Project\Code\MessageANiner2\MessageANiner2\MessageANinerTestProject\bin\Debug\SQLManager.pdb
+E:\Fall 15\SSDI\Project\Code\MessageANiner2\MessageANiner2\MessageANinerTestProject\obj\Debug\MessageANinerTestProject.csprojResolveAssemblyReference.cache
+E:\Fall 15\SSDI\Project\Code\MessageANiner2\MessageANiner2\MessageANinerTestProject\obj\Debug\MessageANinerTestProject.dll
+E:\Fall 15\SSDI\Project\Code\MessageANiner2\MessageANiner2\MessageANinerTestProject\obj\Debug\MessageANinerTestProject.pdb
